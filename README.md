@@ -1,4 +1,4 @@
-# Reality-Gaming
+# Augmented-Reality-Gaming
 This is an example of Augmented Reality Gaming where online games are played considering the movement of the user.
 I used object tracking using opencv for this Project and PyAutoGUI for the key press.
 Any game which can be played with Left,Right,Up,Down arrow keys can be played using Object Detection.
